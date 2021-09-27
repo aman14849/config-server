@@ -1,4 +1,4 @@
-reka:         #tells about the Eureka server details and its refresh time
+eureka:         #tells about the Eureka server details and its refresh time
   instance:
     leaseRenewalIntervalInSeconds: 1
     leaseExpirationDurationInSeconds: 2
